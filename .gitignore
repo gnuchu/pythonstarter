@@ -1,0 +1,6 @@
+.secrets.yaml
+database/*.db
+fixtures.csv
+fixtures.xlsx
+fixtures.json
+output/fixture*
